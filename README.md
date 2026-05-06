@@ -39,21 +39,25 @@
 * **排版畫面與初始準備狀態:**
 ---
   *  要先押注才能開始發牌
-<img width="621" height="450" alt="image" src="https://github.com/user-attachments/assets/07215180-bf96-4542-9d09-fc022be29271" />
+<img width="629" height="452" alt="image" src="https://github.com/user-attachments/assets/ec759ce9-46cc-42f3-8423-765c512a227f" />
+
 
 ---
 
  *  成功下注會跳通知並啟動發牌跟扣除總資金
-<img width="679" height="540" alt="image" src="https://github.com/user-attachments/assets/da9c4355-9d9e-4878-8add-a14bd37ddd97" />
+
+<img width="728" height="545" alt="image" src="https://github.com/user-attachments/assets/a0e0abe5-de4b-43c3-b623-055445e817b7" />
 
 ---
 
 *  換牌過程
-<img width="622" height="438" alt="image" src="https://github.com/user-attachments/assets/e86620ba-d63d-45b0-a5b0-335db1d1485b" />
-<img width="622" height="438" alt="image" src="https://github.com/user-attachments/assets/330c24d0-fba4-4c31-b794-79f4b742b2bc" />
+<img width="627" height="444" alt="image" src="https://github.com/user-attachments/assets/b86f869d-4e6e-4d34-871b-9fcc20f46ec0" />
+<img width="628" height="451" alt="image" src="https://github.com/user-attachments/assets/4ba7afca-4a9b-4266-b8a7-eff318f59220" />
+
 
 ---
 
 * 判斷牌型並跳通知
-<img width="885" height="448" alt="image" src="https://github.com/user-attachments/assets/3b6f9cf0-45d3-4ada-8ea4-fd1363ee6033" />
+<img width="802" height="536" alt="image" src="https://github.com/user-attachments/assets/f25bc300-61ce-4991-b4e2-7665eb01767a" />
+
 
